@@ -1,1 +1,2 @@
-# WebRTC
+# krankygeek
+Kranky Geek Android Application

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_3bd2c497626ec9b1ce1d8bf8eccc34a454fdbc61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/libs/autobanh.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/autobanh_40159fc9c085d149c7c4a29e2b0af554950943fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.8.2/2b23f3e731f21c2009ab0a10da8254a69693767d/engine.io-client-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b23f3e731f21c2009ab0a10da8254a69693767d">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/engine.io-client-0.8.2_2addff0730fa04b8cb650b00a79344501a5279fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_be027087e74f8157ace994aaf45ad6cacfc01f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.8.2/96fd0e4a99e71d688b7267e12d2a5a137519d92e/socket.io-client-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96fd0e4a99e71d688b7267e12d2a5a137519d92e">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/socket.io-client-0.8.2_d7ce1d205cb043a52cc01eb748858edadff81d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_729e3f156574e42f15075e1d582eb15d3d184d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c73af32ba944a0eb48b8b82112832ce64c4dc5b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_622d1b4b2e03e7e2ba5c956164f75399f06844b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/io.pristine/libjingle/9694/jars/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0534156c273fbecc84a9e895fc0cd9717930968c">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection_2ff6e41db557b2641adb2c14f8f34c1f2b8261c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_79e1781ee39251ebb36715a992ec40349749f2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_06a8542ae4e7569e8282e5238427b79365343fa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_cb42be6d199f9913a802c6a546393cf2f0471883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c5932fc03e789f62df85e0674ea075207d4a5e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d767c8d66952be9424f27bf8b6e16753cfc1779e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_d1ca146ca4308650e6e3227b3678f2f26af0406c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_3c30feb65dff4ab6ca21a585ca3cc0b13f005b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1cb30f3809db069571743e63b9a897e7fcb01008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection_f4030b4c5c87fe7e6c58617921e9eca9964d113b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/libs/base_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/base_java_5cae624456fb0126e91755b6fb5148a33e6be6c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c2a7ba284379734e9075781a37fa8eca955bbc8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_018914c37ae64272c02ad075abe72634af282e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_b9d221b95f9ee259a27c8628a90e2149ce340059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_dbaf83793a6f7b0e03331264aa6048cbd2c25986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/admin/Workspace/GitHub/krankygeek/client/app/build/intermediates/pre-dexed/debug/okio-1.9.0_394b119fa9937e0fa841f0319ec98f3878d3b3cf.jar" />
+    </item>
+
+</items>
